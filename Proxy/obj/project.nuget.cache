@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4JSTFmeL47jGWRa0ynXTpE5tmETgXzd4aaoRxD9PW8dFjlTSuuhUtNLTv0QC24QXnht/pAwKLEVErRJxCpAlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\platon.zvonkov\\Desktop\\Proxy\\Proxy\\Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\platon.zvonkov\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
